@@ -21,10 +21,6 @@
 * Google analytics
 * HTML Minify _(Compress HTML)_ using [Jekyll Compress HTML](https://github.com/penibelst/jekyll-compress-html)
 
-#### Screenshot
-
-![Screenshot Post Page](https://raw.githubusercontent.com/agusmakmun/agusmakmun.github.io/master/static/img/screenshot-post-page.png  "Screenshot Post Page")
-
 ### Install & Configuration
 
 1. Fork this repository
