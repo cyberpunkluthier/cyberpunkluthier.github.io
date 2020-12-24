@@ -1,0 +1,18 @@
+[
+	{
+		"slug": "trafo",
+		"name": "Trafo",
+		"image": "placeholder.jpg",
+		"url": "https://www.google.com",
+		"date": "Jan 2021",
+		"tags": ["Zine","Poesia"]
+	},
+	{
+		"slug": "cool-project",
+		"name": "Cool project",
+		"image": "placeholder.jpg",
+		"url": "https://www.google.com",
+		"date": "Jan 2021",
+		"tags": ["Tecno","Poesia"]
+	}
+]
