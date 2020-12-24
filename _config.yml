@@ -44,7 +44,6 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
->>>>>>> 96ae3ec (layout 2 pa nois)
 plugins:
   - jekyll-paginate
   - jekyll-gist
